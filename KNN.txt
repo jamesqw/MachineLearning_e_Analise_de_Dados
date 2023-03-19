@@ -1,0 +1,9 @@
+Utilizando o KNN para fazer previsões:
+
+-- A biblioteca sklearn traz consigo diversos modelos estatísticos,
+os quais nos cabe avaliar para escolher o certo na hora de fazer 
+previsões.
+
+-- O KNN (K Nearest Neighbors) é um modelo estatístico onde é atribuído 
+um valor para K (quantidade de vizinhos) e este se baseia nos vizinhos 
+para chegar em uma conclusão.
